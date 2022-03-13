@@ -1,9 +1,9 @@
-package application;
+package com.example.nasaapiproject;
 
 import java.util.ArrayList;
 
 public class Data {
 
-	ArrayList<Photo> photos = new ArrayList<Photo>();
+    ArrayList<Photo> photos = new ArrayList<Photo>();
 
 }

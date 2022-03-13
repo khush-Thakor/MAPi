@@ -1,12 +1,8 @@
-package application;
-
-import java.awt.Image;
+package com.example.nasaapiproject;
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Scanner;
-
-import javax.imageio.ImageIO;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
@@ -20,28 +16,26 @@ import javafx.scene.control.TextArea;
 
 
 public class Main extends Application {
-	
-	@Override
-	public void start(Stage primaryStage) throws IOException {
-		
-			Parent root = FXMLLoader.load(getClass().getResource("intro.fxml"));
-			
-			Scene scene = new Scene(root);
-			
-			scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
-			
-			primaryStage.setTitle("NASA API");
-			
-			primaryStage.setScene(scene);
-			
-			primaryStage.show();
-			
-			}
-	
-	public static void main(String[] args) {
-		
-		launch(args);
-		
-	}
-	
+
+    @Override
+    public void start(Stage primaryStage) throws IOException {
+
+        Parent root = FXMLLoader.load(getClass().getResource("hello-view.fxml"));
+
+        Scene scene = new Scene(root);
+
+        primaryStage.setTitle("NASA API");
+
+        primaryStage.setScene(scene);
+
+        primaryStage.show();
+
+    }
+
+    public static void main(String[] args) {
+
+        launch(args);
+
+    }
+
 }
