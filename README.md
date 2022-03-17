@@ -40,8 +40,7 @@ side of the screen.
  
 ## Notes
  - Some images have been resized or adjusted due to the constraints of the UI. Images in their full resolution are available by their link, which can be copied in-program.
- - The database used to store images changed in 2020, as a result we only have access to photos taken and stored after the database shift. An image that appears in the list but does not appear in the application is one of these. You should still be able to copy the link to the image and paste it into a browser to access it.
-
+ - We are unable to get some images to display as their filetype is not supported by JavaFX, it seems to be tied to a switch in databases that happened during 2020.
 ## Credits & Sources
  - NASA and Chris Cerami, for access to their [Mars Rover Photos API](https://github.com/chrisccerami/mars-photo-api).
  - Oracle & Gluon, for their [Scene Builder](https://gluonhq.com/products/scene-builder/) which allowed us to quickly visualize the GUI.
