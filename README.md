@@ -2,6 +2,7 @@
 This tool provides access to the Mars Rover Photos API's images and metadata through a simple GUI.
 
 ## Installation
+Note: This documentation walks through the basics of opening a JavaFX application, if you do have experience with JavaFX please feel free to downlaod our files and ahve fun.
  - Download the ZIP of the repository, unpack, and open it in an IDE of your choice.
  ![This is an image of the file directory of the repository](https://cdn.discordapp.com/attachments/496087983779479584/954107093378539541/fileviewer.png)
  - In your IDE, create a new JavaFX project of version 11.
