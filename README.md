@@ -1,6 +1,6 @@
 # Rover API Visualizer
 This GUI provides access to Mars Rover images and metadata using NASA API.
-
+![build Image](https://media.discordapp.net/attachments/941490458960466063/951726669004148826/Capture.PNG?width=406&height=468)
 ## Installation
 Note: This documentation walks through the basics of opening a JavaFX application in a development enviroment, if you do have experience with JavaFX please feel free to downlaod our files and have fun. A desktop applciation of this project is currently being developed and will be released shortly.
  - Download the ZIP of the repository, unpack, and open it in an IDE of your choice.
@@ -30,7 +30,6 @@ of the new "Main.java" with those that you've copied, excluding the Package stat
 and add 'Requires JSON' directive to "module-info.java".
  - Build the program, run it, and enjoy! If you run into any issues, please create an issue on the github and we'll try to 
 respond promptly!
-![build Image](https://media.discordapp.net/attachments/941490458960466063/951726669004148826/Capture.PNG?width=406&height=468)
 ## How To Use This Program
 This tool operates by getting all photos taken on a specific date, accessible through a drop-down menu on the top-left
 side of the screen.
