@@ -31,6 +31,7 @@ and add 'Requires JSON' directive to "module-info.java".
  - Build the program, run it, and enjoy! If you run into any issues, please create an issue on the github and we'll try to 
 respond promptly!
 (https://media.discordapp.net/attachments/941490458960466063/951726669004148826/Capture.PNG?width=406&height=468)
+https://cdn.discordapp.com/attachments/496087983779479584/954107094653624420/module_creation.png
 ## How To Use This Program
 This tool operates by getting all photos taken on a specific date, accessible through a drop-down menu on the top-left
 side of the screen.
