@@ -46,4 +46,3 @@ side of the screen.
 ## Credits & Sources
  - NASA and Chris Cerami, for access to their [Mars Rover Photos API](https://github.com/chrisccerami/mars-photo-api).
  - Oracle & Gluon, for their [Scene Builder](https://gluonhq.com/products/scene-builder/) which allowed us to quickly visualize the GUI.
- - Stackoverflow users jewelsea and Slaw for their [helpful advice](https://stackoverflow.com/questions/71366928/how-to-retrieve-image-from-web-in-java-fx).
