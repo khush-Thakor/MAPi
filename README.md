@@ -3,9 +3,9 @@ This GUI provides access to Mars Rover images and metadata using NASA API.
 <br>
 ![build Image](https://media.discordapp.net/attachments/941490458960466063/951726669004148826/Capture.PNG?width=406&height=468)
 ## Installation
-'''
+```
 git clone https://github.com/khush-Thakor/MAPi.git
-'''
+```
  - Then open the MAPi.dmg for mac or MAPi.msi for Windows 
 ## Installation using JavaFX Files
 Note: This documentation walks through the basics of opening a JavaFX application in a development enviroment, if you do have experience with JavaFX please feel free to downlaod our files and have fun. A desktop applciation of this project is currently being developed and will be released shortly.
